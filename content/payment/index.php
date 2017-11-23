@@ -4,6 +4,7 @@ $APPLICATION->SetPageProperty("keywords", "оплата, книги, налич�
 $APPLICATION->SetPageProperty("description", "На странице перечислены способы оплаты, которыми вы можете оплатить заказ");
 $APPLICATION->SetTitle("Способы оплаты в интернет-магазине «Альпина Паблишер»");
 ?>
+<!-- 12345 -->
  <div class="searchWrap">
         <div class="catalogWrapper">
             <?$APPLICATION->IncludeComponent("bitrix:search.title", "search_form", 
